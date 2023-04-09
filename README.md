@@ -1,2 +1,2 @@
 # capi_stream
-python scripts from live streams
+All the scripts from twitch live streams
