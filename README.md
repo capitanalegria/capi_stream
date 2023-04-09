@@ -1,2 +1,2 @@
 # capi_stream
-python scripts from streams
+python scripts from live streams
